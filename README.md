@@ -15,7 +15,7 @@ A responsive web-based quiz application with countdown timer, score calculation,
 
 1. **Open in Browser**
    - Simply double-click `index.html` or open it in any modern web browser
-   - Or copy the path: `file:///C:/Users/ytake/Downloads/frugal/index.html`
+   - Or copy the path: `file:///C:/Users/komat/Downloads/test/index.html`
 
 2. **Using Local Server** (Optional)
    ```bash
@@ -118,3 +118,4 @@ In `styles.css`, modify the `:root` variables at the top:
 **Version**: 1.0  
 **Last Updated**: November 19, 2024  
 **License**: Open Source
+
